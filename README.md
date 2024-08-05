@@ -95,7 +95,3 @@ This is a basic movie recommendation app built with Flask. It recommends movies 
 - Store data in a database instead of in-memory dictionaries.
 - Add user authentication and profiles.
 - Create a frontend interface for a better user experience.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
